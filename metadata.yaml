@@ -1,5 +1,8 @@
 _repo: Through-the-Magic-Door_5317
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Doyle, Arthur Conan
@@ -13,6 +16,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/69
     wikipedia: http://en.wikipedia.org/wiki/Arthur_Conan_Doyle
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/5317#Through-the-Magic-Door
 gutenberg_issued: '2004-03-01'
 gutenberg_type: Text
 identifiers:
