@@ -1,5 +1,5 @@
 _repo: Through-the-Magic-Door_5317
-_version: 0.2.0
+_version: 0.2.1
 covers:
 - cover_type: generated
   image_path: cover.png
@@ -30,5 +30,6 @@ subjects:
 - !lcc 'Z'
 - !lcc 'PR'
 - !lcsh 'Books and reading -- Great Britain'
+- GITenberg
 title: Through the Magic Door
 url: http://www.gutenberg.org/ebooks/5317
